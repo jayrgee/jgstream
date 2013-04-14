@@ -1,0 +1,15 @@
+{
+  "name": "jgstream",
+  "version": "0.0.1",
+  "description": "blah",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "jg",
+  "license": "BSD",
+  "dependencies": {
+    "connect": "~2.7.5"
+  }
+}

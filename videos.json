@@ -1,0 +1,20 @@
+{
+  "video": [
+    {
+      "id": "Unique-ID-Here",
+      "title": "Awesome Movie Title Here",
+      "poster": {
+        "remote": false,
+        "location": "/path/to/your/poster/LikeThis.jpg"
+      },
+      "file": {
+        "remote": false,
+        "location": "some_movie_name.mp4"
+      },
+      "description": {
+        "format": "plain",
+        "text": "Your description goes here."
+      }
+    }
+  ]
+}
